@@ -21,8 +21,8 @@
               <div class="icon-box">
               <i class="bi bi-truck" style="font-size: 2.5rem;"></i>
               </div>
-              <h3>Free Shipping</h3>
-              <p>Nulla sit morbi vestibulum eros duis amet, consectetur vitae lacus. Ut quis tempor felis sed nunc viverra.</p>
+              <h3>Envios garantisados</h3>
+              <p>Enviamos a todo el pais   por mercado libre  </p>
             </div>
           </div><!-- End Info Card 1 -->
 
@@ -32,8 +32,8 @@
               <div class="icon-box">
              <i class="bi bi-piggy-bank" style="font-size: 2.5rem;"></i>
               </div>
-              <h3>Money Back Guarantee</h3>
-              <p>Nullam gravida felis ac nunc tincidunt, sed malesuada justo pulvinar. Vestibulum nec diam vitae eros.</p>
+              <h3>Dinero asegurado</h3>
+              <p>En caso de que llegue fallado puedes devolverlo </p>
             </div>
           </div><!-- End Info Card 2 -->
 
@@ -43,8 +43,8 @@
               <div class="icon-box" style="font-size: 2.5rem;">
                 <i class="bi bi-percent"></i>
               </div>
-              <h3>Discount Offers</h3>
-              <p>Nulla ipsum nisi vel adipiscing amet, dignissim consectetur ornare. Vestibulum quis posuere elit auctor.</p>
+              <h3>Oupon de descuento</h3>
+              <p>Al comprar en cantidad consigue cupon que te permitira tener un descuento en tu proxima compra</p>
             </div>
           </div><!-- End Info Card 3 -->
 
@@ -54,8 +54,8 @@
              <div class="icon-box" style="font-size: 2.5rem;">
                <i class="bi bi-headset"></i>
               </div>
-              <h3>24/7 Support</h3>
-              <p>Ipsum dolor amet sit consectetur adipiscing, nullam vitae euismod tempor nunc felis vestibulum ornare.</p>
+              <h3>24/7 Ayuda</h3>
+              <p>Tienes alguna duda o incoveniente ? te ayudamos en cualquier momento .</p>
             </div>
           </div><!-- End Info Card 4 -->
         </div>
