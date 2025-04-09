@@ -2,9 +2,9 @@
 - id: 1
   name: "Remera básica"
   price: 4500
-  image: "/assets/img/remera.jpg"
+  image: "./assets/img/remera.jpg"
 
 - id: 2
   name: "Campera de cuero"
   price: 15000
-  image: "/assets/img/campera.jpg"
+  image: "./assets/img/campera.jpg"
