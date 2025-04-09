@@ -3,10 +3,10 @@
   name: "Headcrab"
   price: 35500
   image: "./assets/img/p1.jpg"
-  description:""
+  description:"Criatura del juego Half-Life"
 
 - id: 2
   name: "Gatitos llavero"
   price: 3000
   image: "./assets/img/p2.jpg"
-  description:""
+  description:"LLavero de Gatitos articulados que se mueven"
