@@ -2,11 +2,11 @@
 - id: 1
   name: "Headcrab"
   price: 35500
-  image: "./assets/img/remera.jpg"
+  image: "./assets/img/p1.jpg"
   description:""
 
 - id: 2
   name: "Gatitos llavero"
   price: 3000
-  image: "./assets/img/campera.jpg"
+  image: "./assets/img/p2.jpg"
   description:""
