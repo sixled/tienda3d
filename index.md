@@ -12,20 +12,27 @@
     </header>
   </div>
   <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
-   <img src="./assets/img/head.jpg">
+   <img src="./assets/img/head.jpg" class="img-fluid" width="1296"">
   </div>
 <h1>Productos</h1>
 <div class="row">
 {% for producto in site.data.products %}
-  <div class="col-md-4 mb-4">
-    <div class="card">
-      <img src="{{ producto.image }}" class="card-img-top" alt="{{ producto.name }}">
-      <div class="card-body">
-        <h5 class="card-title">{{ producto.name }}</h5>
-        <p class="card-text">${{ producto.price }}</p>
-        <button class="btn btn-primary" onclick="addToCart({{ producto.id }}, '{{ producto.name }}', {{ producto.price }})">Agregar al carrito</button>
-      </div>
-    </div>
-  </div>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+       
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="{{ producto.image }}"  width="100%" height="225">
+            <div class="card-body">
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button class="btn btn-primary" onclick="addToCart({{ producto.id }}, '{{ producto.name }}', {{ producto.price }})">Agregar al carrito</button>
+                </div>
+                <small class="text-body-secondary">9 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
+ </div>
 {% endfor %}
 </div>
