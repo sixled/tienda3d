@@ -19,7 +19,7 @@
           <div class="col-12 col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
             <div class="info-card text-center">
               <div class="icon-box">
-              <i class="bi bi-truck"></i>
+              <i class="bi bi-truck" style="font-size: 2.5rem;"></i>
               </div>
               <h3>Free Shipping</h3>
               <p>Nulla sit morbi vestibulum eros duis amet, consectetur vitae lacus. Ut quis tempor felis sed nunc viverra.</p>
@@ -30,7 +30,7 @@
           <div class="col-12 col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
             <div class="info-card text-center">
               <div class="icon-box">
-             <i class="bi bi-piggy-bank"></i>
+             <i class="bi bi-piggy-bank" style="font-size: 2.5rem;"></i>
               </div>
               <h3>Money Back Guarantee</h3>
               <p>Nullam gravida felis ac nunc tincidunt, sed malesuada justo pulvinar. Vestibulum nec diam vitae eros.</p>
@@ -40,7 +40,7 @@
           <!-- Info Card 3 -->
           <div class="col-12 col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
             <div class="info-card text-center">
-              <div class="icon-box">
+              <div class="icon-box" style="font-size: 2.5rem;">
                 <i class="bi bi-percent"></i>
               </div>
               <h3>Discount Offers</h3>
@@ -51,7 +51,7 @@
           <!-- Info Card 4 -->
           <div class="col-12 col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
             <div class="info-card text-center">
-              <div class="icon-box">
+              <div class="icon-box"style="font-size: 2.5rem;" >
                <i class="bi bi-headset"></i>
               </div>
               <h3>24/7 Support</h3>
