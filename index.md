@@ -15,7 +15,7 @@
    <img src="./assets/img/head.jpg" class="img-fluid" width="1296">
   </div>
 
-<h1>Más Vendidos</h1>
+<h1>Mas Vendidos</h1>
 <div class="row">
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
