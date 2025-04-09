@@ -16,9 +16,9 @@
   </div>
 <h1>Productos</h1>
 <div class="row">
-{% for producto in site.data.products %}
+
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-       
+       {% for producto in site.data.products %}
         <div class="col">
           <div class="card shadow-sm">
             <img src="{{ producto.image }}"  width="100%" height="225">
@@ -33,6 +33,7 @@
             </div>
           </div>
         </div>
+        {% endfor %}
  </div>
-{% endfor %}
+
 </div>
