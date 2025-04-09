@@ -51,7 +51,7 @@
           <!-- Info Card 4 -->
           <div class="col-12 col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
             <div class="info-card text-center">
-              <div class="icon-box"style="font-size: 2.5rem;" >
+             <div class="icon-box" style="font-size: 2.5rem;">
                <i class="bi bi-headset"></i>
               </div>
               <h3>24/7 Support</h3>
