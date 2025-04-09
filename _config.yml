@@ -1,0 +1,6 @@
+
+title: Mi Tienda Online
+description: Ecommerce con Jekyll y Bootstrap
+baseurl: ""
+url: "https://tu-usuario.github.io/mi-tienda-jekyll"
+theme: minima
