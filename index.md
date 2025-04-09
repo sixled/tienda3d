@@ -12,7 +12,7 @@
     </header>
   </div>
   <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
-   <img src="/assets/img/head.jpg">
+   <img src="./assets/img/head.jpg">
   </div>
 <h1>Productos</h1>
 <div class="row">
