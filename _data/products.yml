@@ -1,10 +1,12 @@
 
 - id: 1
-  name: "Remera básica"
-  price: 4500
+  name: "Headcrab"
+  price: 35500
   image: "./assets/img/remera.jpg"
+  description:""
 
 - id: 2
-  name: "Campera de cuero"
-  price: 15000
+  name: "Gatitos llavero"
+  price: 3000
   image: "./assets/img/campera.jpg"
+  description:""
