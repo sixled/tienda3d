@@ -68,7 +68,7 @@
           <div class="card shadow-sm">
             <img src="{{ producto.image }}"  width="100%" height="400">
             <div class="card-body">
-              <p class="card-text">{{description}}</p>
+              <p class="card-text">{{producto.description}}</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button class="btn btn-primary" onclick="addToCart({{ producto.id }}, '{{ producto.name }}', {{ producto.price }})">Agregar al carrito</button>
