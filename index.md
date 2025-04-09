@@ -6,13 +6,13 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Inicio</a></li>
         <li class="nav-item"><a href="#" class="nav-link">About</a></li>
       </ul>
     </header>
+  </div>
+  <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
+   <img src="assets/img/head.jpg">
   </div>
 <h1>Productos</h1>
 <div class="row">
